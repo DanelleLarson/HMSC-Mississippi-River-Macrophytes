@@ -49,7 +49,7 @@ The repository contains the following folders and files:
   * `LICENSE.md` is the Official USGS License. 
   * `code.json` is the meta-data about the code in a machine readable format following USGS Style requirements.
   * `workflow diagram.png` is a graphical image of the major steps in analysis.
-  * `HMSC_XXXXX.R` are eight .R files for reproducing analyses and figures
+  * `HMSC_XXXXX.R` are nine .R files for reproducing analyses and figures.
     
 # Subject area and programming background required
 
