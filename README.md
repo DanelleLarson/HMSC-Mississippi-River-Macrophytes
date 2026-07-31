@@ -38,7 +38,6 @@ The repository contains the following folders and files:
   
 
 - `Data sets` folder holding all data sets for the HMSC macrophyte study, which included nearly 20,000 study plots. These are non-authorative copies of the data and are included to allow a reproducible workflow. The authorative copies will reside on the USGS data portal, ScienceBase:  https://doi.org/10.5066/P1JGFM76
-  * `HMSCdataframe_NAexcluded_spatial_pred_06052025.csv` CSV file with data to run R file named `HMSC_spatial_predictions_finalpub.R`. This is a single compilation of all the other datasets found in "Data Sets" folder.
   * `climate.csv` CSV file containing multiple climate summaries for precipitation and temperature for each study plot
   * `environmental covariates.csv` CSV file containing environmental habitat data for each study plot
   * `macrophyte community.csv` CSV file containing macrophyte species data observed for each study plot
