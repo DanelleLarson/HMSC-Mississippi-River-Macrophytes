@@ -5,8 +5,7 @@
 #### Repository Type:  _R_ script, datasets
 #### Year of Origin:   2026 (original publication)
 #### Year of Version:  2026
-#### Digital Object Identifier (DOI): https://doi.org/10.5066/P1XOTEWH
-#### USGS Information Product Data System (IPDS) no.: IP-180939 (internal agency tracking)
+
 
 ***
 
@@ -16,7 +15,6 @@ Larson DM, Jones M, Weigel B, Gray B, and Ovaskainen O.
 2026.
 Mississippi River Macrophytes Recovery.
 U.S. Geological Survey software release. Reston, Va.
-https://doi.org/10.5066/P1XOTEWH.
 
 _Authors' [ORCID](https://orcid.org) nos.:_
 
