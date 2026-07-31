@@ -33,9 +33,6 @@ This repository contains analysis codes to reproduce the key findings reported i
 
 The repository contains the following folders and files:
 
-- `analysis_codes` folder holding all analysis codes.
-  * `HMSC_spatial_predictions_finalpub.R` R file to use machine learning algorithm for making spatial predictions for environmental covariates
-  
 
 - `Data sets` folder holding all data sets for the HMSC macrophyte study, which included nearly 20,000 study plots. These are non-authorative copies of the data and are included to allow a reproducible workflow. The authorative copies will reside on the USGS data portal, ScienceBase:  https://doi.org/10.5066/P1JGFM76
   * `climate.csv` CSV file containing multiple climate summaries for precipitation and temperature for each study plot
@@ -52,7 +49,8 @@ The repository contains the following folders and files:
   * `LICENSE.md` is the Official USGS License. 
   * `code.json` is the meta-data about the code in a machine readable format following USGS Style requirements.
   * `workflow diagram.png` is a graphical image of the major steps in analysis.
-
+  * `HMSC_XXXXX.R` are eight .R files for reproducing analyses and figures
+    
 # Subject area and programming background required
 
 This code assumes the user is familiar with R.
