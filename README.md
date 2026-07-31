@@ -14,7 +14,8 @@ _Suggested Citation:_
 Larson DM, Jones M, Weigel B, Gray B, and Ovaskainen O.
 2026.
 Mississippi River Macrophytes Recovery.
-U.S. Geological Survey software release. Reston, Va.
+U.S. Geological Survey software release. Reston, Va. 
+https://github.com/DanelleLarson/HMSC-Mississippi-River-Macrophytes
 
 _Authors' [ORCID](https://orcid.org) nos.:_
 
