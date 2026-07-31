@@ -1,0 +1,42 @@
+SPECIESCODE,USDACODE,COMMON1,COMMON2,FAMILY,GENUS,SPECIES,LIFE_FORM,LIFE_TYPE,WILDLIFE_FOOD,POLLINATION,NATIVE_STATUS
+ALGAE,ALGA,filamentous algae,"algae, filamentous",Zygnemataceae,none,none,free-floating,macroalgae,none,algae,native
+BUUM,BUMM,flowering rush,"rush, flowering",Butomaceae,Butomus,umbellatus,emersed,perennial,minor,entomophily,introduced
+CEDE4,CEDE4,coontail,coontail,Ceratophyllaceae,Ceratophyllum,demersum,submersed,perennial,minor,hypohydrophily,native
+CHAR,CHAR,chara,chara,Characeae,Chara,spp.,submersed,macroalgae,none,algae,native
+ECCR,ECCR,barnyardgrass,Japanese millet,Poaceae,Echinochloa,crus-galli,emersed,annual,high,anemophily,introduced
+ELCA7,ELCA7,Canadian waterweed,"waterweed, Canadian",Hydrocharitaceae,Elodea,canadensis,submersed,perennial,minor,epihydrophily,native
+FFP,none,free-floating plants,5 species,none,none,none,free-floating,perennial,low,entomophily,native
+LEOR,LEOR,rice cutgrass,"cutgrass, rice",Poaceae,Leersia,oryzoides,emersed,perennial,moderate,anemophily,native
+LYSA2,LYSA2,purple loosestrife,"loosestrife, purple",Lythraceae,Lythrum,salicaria,emersed,perennial,none,entomophily,introduced
+MYSI,MYSI,northern watermilfoil,"watermilfoil, northern",Haloragaceae,Myriophyllum,sibiricum,submersed,perennial,low,anemophily,native
+MYSP2,MYSP2,Eurasian watermilfoil,"watermilfoil, Eurasian",Haloragaceae,Myriophyllum,spicatum,submersed,perennial,low,anemophily,introduced
+NAFL,NAFL,nodding waternymph,"waternymph, nodding",Najadaceae,Najas,flexilis,submersed,annual,low,hypohydrophily,native
+NAGU,NAGU,southern waternymph,"waternymph, southern",Najadaceae,Najas,guadalupensis,submersed,annual,low,hypohydrophily,native
+NAMI,NAMI,brittle waternymph,"waternymph, brittle",Najadaceae,Najas,minor,submersed,annual,low,hypohydrophily,introduced
+NELU,NELU,American lotus,"lotus, American",Nelumbonaceae,Nelumbo,lutea,rooted-floating,perennial,low,entomophily,native
+NLPW,NLPW,leafy/small pondweed,"pondweed, leafy/small",Potamogetonaceae,Potamogeton,foliosus,submersed,perennial,minor,anemophily,native
+NULU,NULU,yellow pond lily,"pondlily, yellow",Nymphaeaceae,Nuphar,variegata,rooted-floating,perennial,low,entomophily,native
+NYTU,NYODT,white waterlily,"waterlily, white",Nymphaeaceae,Nymphaea,odorata,rooted-floating,perennial,low,entomophily,native
+PHAR3,PHAR3,reed canarygrass,"canarygrass, reed",Poaceae,Phalaris,arundinacea,emersed,perennial,moderate,entomophily,weedy
+POAM8,POAM8,water knotweed,"knotweed, water",Polygonaceae,Persicaria,amphibia,emersed,perennial,low,entomophily,native
+POCO14,POCO14,pickerelweed,pickerelweed,Pontederiaceae,Pontederia,cordata,emersed,perennial,moderate,entomophily,native
+POCR3,POCR3,curly pondweed,"pondweed, curly",Potamogetonaceae,Potamogeton,crispus,submersed,perennial,minor,anemophily,introduced
+POHY2,POHY2,swamp smartweed,"smartweed, swamp",Polygonaceae,Polygonum,hydropiperoides,emersed,perennial,low,anemophily,native
+PONO2,PONO2,longleaf pondweed,"pondweed, longleaf",Potamogetonaceae,Potamogeton,nodosus,submersed,perennial,minor,anemophily,native
+POPE6,STPE15,Sago,"pondweed, sago",Potamogetonaceae,Stuckenia,pectinata,submersed,perennial,high,hypohydrophily,weedy
+PORI2,PORI2,Richardson's pondweed,"pondweed, Richardson's",Potamogetonaceae,Potamogeton,richardsonii,submersed,perennial,minor,anemophily,native
+POZO,POZO,flatstem pondweed,"pondweed, flatstem",Potamogetonaceae,Potamogeton,zosteriformis,submersed,perennial,minor,anemophily,native
+RALO2,RALO2,longbeak buttercup,"buttercup, longbeak",Ranunculaceae,Ranunculus,aquatilis var. diffusus,submersed,perennial,none,entomophily,native
+SALA2,SALA2,broadleaf arrowhead,"arrowhead, broadleaf",Alismataceae,Sagittaria,latifolia,emersed,perennial,high,entomophily,native
+SANI,SANI,black willow,"willow, black",Salicaceae,Salix,nigra,emersed,perennial,high,entomophily,native
+SARI,SARI,stiff arrowhead,"arrowhead, stiff",Alismataceae,Sagittaria,rigida,emersed,perennial,moderate,entomophily,native
+SCFL,BOFL3,river bulrush,"bulrush, river",Cyperaceae,Bolboschoenus,fluviatilis,emersed,perennial,high,epihydrophily,native
+SCVA,SCTA2,softstem bulrush,"bulrush, softstem",Cyperaceae,Schoenoplectus,tabernaemontani,emersed,perennial,high,anemophily,native
+SPEU,SPEU,giant burreed,"burreed, giant",Sparganiaceae,Sparganium,eurycarpum,emersed,perennial,high,anemophily,native
+TYAN,TYAN,narrowleaf cattail,"cattail, narrowleaf",Typhaceae,Typha,angustifolia,emersed,perennial,moderate,anemophily,weedy
+TYLA,TYLA,common cattail,"cattail, common",Typhaceae,Typha,latifolia,emersed,perennial,moderate,anemophily,weedy
+UTMA,UTMA,common bladderwort,"bladderwort, common",Lentibulariaceae,Utricularia,vulgaris ssp. Macrorhiza,submersed,perennial,low,entomophily,native
+VAAM3,VAAM3,wildcelery,wildcelery,Hydrocharitaceae,Vallisneria,americana,submersed,perennial,high,epihydrophily,native
+ZAPA,ZAPA,horned pondweed,"pondweed, horned",Zannichelliaceae,Zannichellia,palustris,submersed,annual,minor,hypohydrophily,native
+ZIAQ,ZIAQ,wild rice,"rice, wild",Poaceae,Zizania,aquatica,emersed,annual,high,anemophily,native
+ZODU,HEDU2,water stargrass,"stargrass, water",Pontederiaceae,Heteranthera,dubia,submersed,perennial,low,epihydrophily,native
