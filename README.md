@@ -51,7 +51,8 @@ The repository contains the following folders and files:
   * `README.md`, which is this file.
   * `.gitignore` is a Git ignore files for the repository.
   * `LICENSE.md` is the Official USGS License. 
-  * `code.json` is the meta-data about the code in a machine readable format following USGS Style requirements. 
+  * `code.json` is the meta-data about the code in a machine readable format following USGS Style requirements.
+  * `workflow diagram.png` is a graphical image of the major steps in analysis.
 
 # Subject area and programming background required
 
