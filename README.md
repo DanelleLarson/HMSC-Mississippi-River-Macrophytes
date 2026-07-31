@@ -60,9 +60,6 @@ No subject area expertise is required, although expertise in water quality and m
 
 This code uses R, version 4.1.2 or higher R Core Team. (2024). R: A Language and Environment for Statistical Computing [Computer software]. R Foundation for Statistical Computing. 
 
-# Code run time
-
-Code times range ~30 seconds per random forest algorithm for spatial predictions.
 
 # Acknowledgments 
 
