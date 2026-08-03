@@ -41,6 +41,7 @@ The repository contains the following folders and files:
   * `spatiotemporal context.csv` CSV file showing the hierarchical spatial nature of the Mississippi River for each study plot
   * `traits and phylogeny.csv` CSV file providing various macrophyte traits and phylogeny for each macrophyte species
   * `metadata.docx` Word file containing metadata for project context, data sources, and information for all datasets herein
+  * `RCPs_allpools_distmatrix.csv` used in RCP analysis and Figure 3
   
 
 - Files in the main-level of the repository.
