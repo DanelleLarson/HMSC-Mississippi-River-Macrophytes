@@ -12,9 +12,10 @@
 
 _Suggested Citation:_
 
+
 Larson DM, Jones M, Weigel B, Gray B, and Ovaskainen O.
 2026.
-Mississippi Macrophytes HMSC code and data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+DanelleLarson/HMSC-Mississippi-River-Macrophytes: HMSC-Mississippi-River-Macrophytes (Version v.1.0) [Computer software]. Zenodo. (https://doi.org/10.5281/zenodo.22283225)
 
 _Authors' [ORCID](https://orcid.org) nos.:_
 
