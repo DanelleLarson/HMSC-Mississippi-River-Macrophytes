@@ -1,4 +1,4 @@
-#### Title: software release for Water Quality Improvements and Hydrogeomorphic Change Over 20 years Contributed to Macrophyte Community Recovery in the Upper Mississippi River 
+
 #### Data and scripts for the manuscript,"Water Quality Improvements and Hydrogeomorphic Change Over 20 years Contributed to Macrophyte Community Recovery in the Upper Mississippi River"
 #### Authors: Danelle M. Larson, Mirkka Jones, Benjamin Weigel, Brian Gray, and Otso Ovaskainen
 #### Points of contact: Danelle M. Larson (dmlarson@usgs.gov) 
