@@ -1,4 +1,5 @@
 
+#### Mississippi Macrophytes HMSC code and data
 #### Data and scripts for the manuscript,"Water Quality Improvements and Hydrogeomorphic Change Over 20 years Contributed to Macrophyte Community Recovery in the Upper Mississippi River"
 #### Authors: Danelle M. Larson, Mirkka Jones, Benjamin Weigel, Brian Gray, and Otso Ovaskainen
 #### Points of contact: Danelle M. Larson (dmlarson@usgs.gov) 
@@ -13,9 +14,7 @@ _Suggested Citation:_
 
 Larson DM, Jones M, Weigel B, Gray B, and Ovaskainen O.
 2026.
-Mississippi River Macrophytes Recovery.
-U.S. Geological Survey software release. Reston, Va. 
-https://github.com/DanelleLarson/HMSC-Mississippi-River-Macrophytes
+Mississippi Macrophytes HMSC code and data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
 
 _Authors' [ORCID](https://orcid.org) nos.:_
 
