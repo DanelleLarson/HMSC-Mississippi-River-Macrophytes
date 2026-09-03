@@ -27,7 +27,7 @@ _Authors' [ORCID](https://orcid.org) nos.:_
 ***
 ***
 
-This repository contains analysis codes to reproduce the key findings reported in the manuscript, "Upper Mississippi River re-oligotrophication and hydrogeomorphic changes over 20 years contributed to macrophyte community shifts and recovery" (https://doi.org/XXXXXXXXXXXX).
+This repository contains analysis codes to reproduce the key findings reported in the manuscript, "Water Quality Improvements and Hydrogeomorphic Change Over 20 years Contributed to Macrophyte Community Recovery in the Upper Mississippi River", accepted into Global Change Biology in September 2026 (https://doi.org/XXXXXXXXXXXX).
 
 # Repository organization
 
@@ -35,6 +35,7 @@ The repository contains the following folders and files:
 
 
 - `Data sets` folder holding all data sets for the HMSC macrophyte study, which included nearly 20,000 study plots. These are non-authorative copies of the data and are included to allow a reproducible workflow. The authorative copies will reside on the USGS data portal, ScienceBase:  https://doi.org/10.5066/P1JGFM76
+- * `all_HMSC_Data_2026` R file containing data to define, fit, and cross validate the models (Steps 1,2,3)
   * `climate.csv` CSV file containing multiple climate summaries for precipitation and temperature for each study plot
   * `environmental covariates.csv` CSV file containing environmental habitat data for each study plot
   * `macrophyte community.csv` CSV file containing macrophyte species data observed for each study plot
@@ -50,7 +51,7 @@ The repository contains the following folders and files:
   * `LICENSE.md` is the Official USGS License. 
   * `code.json` is the meta-data about the code in a machine readable format following USGS Style requirements.
   * `workflow diagram.png` is a graphical image of the major steps in analysis.
-  * `HMSC_XXXXX.R` are nine .R files for reproducing analyses and figures.
+  * `HMSC_XXXXX.R` are nine .R files for reproducing all analyses and figures.
     
 # Subject area and programming background required
 
